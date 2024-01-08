@@ -6,7 +6,8 @@ This is an obsidian vault which contains all the stuff you need to begin plantin
 
 Hope you will enjoy it 😄
 
-To use it, Simply download and open the "notes" folder as a new vault from the Obsidian App. That's it !
+- To use it, simply download and open the "notes" folder as a new vault from the Obsidian App. That's it !
+- You can always copy ".obsidian" and overwrite it on the existing ".obsidian" folder of your Vault. (make sure hidden files are visible on your operating system)
 
 ## Hotkeys
 
