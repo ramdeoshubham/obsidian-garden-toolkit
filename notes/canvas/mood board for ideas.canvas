@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"b5d91cc3e1a26e68","type":"text","text":"What we can do with obsidian canvas?","x":-160,"y":-180,"width":250,"height":60},
+		{"id":"f3a90f9064956e7e","type":"text","text":"We can put random ideas","x":60,"y":60,"width":250,"height":60},
+		{"id":"daf0fa1df450d5ed","type":"text","text":"And connect them to think ","x":420,"y":61,"width":250,"height":60},
+		{"id":"ea8037c06a8707b4","type":"text","text":"Both as flow chart\nand network chart","x":340,"y":-230,"width":205,"height":80,"color":"3"}
+	],
+	"edges":[
+		{"id":"e2b4afc19fbcbe67","fromNode":"b5d91cc3e1a26e68","fromSide":"bottom","toNode":"f3a90f9064956e7e","toSide":"top"},
+		{"id":"54fccdf249049b86","fromNode":"f3a90f9064956e7e","fromSide":"right","toNode":"daf0fa1df450d5ed","toSide":"left"}
+	]
+}
