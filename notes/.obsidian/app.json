@@ -4,5 +4,21 @@
   "spellcheck": false,
   "useTab": false,
   "trashOption": "local",
-  "attachmentFolderPath": "_files"
+  "attachmentFolderPath": "_files",
+  "mobileToolbarCommands": [
+    "insert-current-time",
+    "insert-current-date",
+    "editor:toggle-checklist-status",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:toggle-bold",
+    "editor:swap-line-up",
+    "editor:swap-line-down",
+    "editor:insert-wikilink",
+    "editor:undo",
+    "editor:redo",
+    "editor:toggle-bullet-list",
+    "editor:toggle-keyboard",
+    "editor:configure-toolbar"
+  ]
 }
