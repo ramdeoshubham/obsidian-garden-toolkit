@@ -50,4 +50,5 @@ You can know more about them in the `Community plugins` settings.
 If you have questions related to obsidian, zettelkasten, second brain, gtd etc, you can ask me anything at [twitter](https://twitter.com/ramdeoshubham) 🐦 I will be happy to help you in your journey in productivity and knowledge management.
 
 Yours fellow note maker
+
 Shubham Ramdeo
