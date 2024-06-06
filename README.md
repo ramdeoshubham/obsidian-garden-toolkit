@@ -1,4 +1,4 @@
-![[banner.jpg]]
+![](notes/_files/banner.jpg)
 
 Welcome to **Obsidian Garden Toolkit** !
 
