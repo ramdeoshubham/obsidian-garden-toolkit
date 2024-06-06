@@ -1,16 +1,16 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 5,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "📁",
       "📄",
       "🍃",
       "🌞",
-      "🗺"
+      "🗺",
+      "📁"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,13 +22,19 @@
     },
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false,
-    "iconsInNotesEnabled": true
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
   },
+  "_files": "📁",
   "canvas": "🗺",
   "daily": "🌞",
   "fleeting": "🍃",
-  "templates": "📄",
-  "_files": "📁"
+  "templates": "📄"
 }

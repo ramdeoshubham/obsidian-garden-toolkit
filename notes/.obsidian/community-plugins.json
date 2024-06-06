@@ -1,7 +1,10 @@
 [
-  "table-editor-obsidian",
   "dataview",
+  "obsidian-minimal-settings",
+  "tag-wrangler",
+  "table-editor-obsidian",
+  "global-search-and-replace",
   "obsidian-kanban",
-  "obsidian-icon-folder",
-  "obsidian-minimal-settings"
+  "note-refactor-obsidian",
+  "obsidian-icon-folder"
 ]

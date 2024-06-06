@@ -1,4 +1,6 @@
 {
   "folder": "daily",
-  "template": "templates/t-daily"
+  "autorun": false,
+  "template": "templates/t-daily",
+  "format": ""
 }

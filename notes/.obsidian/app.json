@@ -1,10 +1,26 @@
 {
   "livePreview": false,
-  "propertiesInDocument": "hidden",
-  "spellcheck": false,
-  "useTab": false,
+  "defaultViewMode": "source",
+  "spellcheckLanguages": null,
   "trashOption": "local",
+  "newFileLocation": "root",
+  "useTab": false,
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "rightToLeft": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Legal",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showInlineTitle": true,
+  "alwaysUpdateLinks": false,
   "attachmentFolderPath": "_files",
+  "showUnsupportedFiles": true,
+  "spellcheck": false,
   "mobileToolbarCommands": [
     "insert-current-time",
     "insert-current-date",
@@ -20,5 +36,9 @@
     "editor:toggle-bullet-list",
     "editor:toggle-keyboard",
     "editor:configure-toolbar"
-  ]
+  ],
+  "showFrontmatter": true,
+  "mobilePullAction": "switcher:open",
+  "promptDelete": true,
+  "propertiesInDocument": "hidden"
 }

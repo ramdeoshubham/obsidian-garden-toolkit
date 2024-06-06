@@ -1,5 +1,12 @@
 {
   "accentColor": "",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
-  "cssTheme": "Minimal"
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "enabledCssSnippets": [],
+  "nativeMenus": false
 }

@@ -1,24 +1,56 @@
 {
-  "daily-notes": [
+  "editor:toggle-checklist-status": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "Home"
+      "key": "Enter"
     }
   ],
-  "editor:focus-left": [
+  "insert-template": [
     {
       "modifiers": [
         "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "workspace:toggle-pin": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "."
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
       ],
       "key": "ArrowLeft"
     }
   ],
-  "editor:focus-right": [
+  "app:go-forward": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "ArrowRight"
     }
@@ -39,68 +71,36 @@
       "key": "ArrowUp"
     }
   ],
-  "app:go-back": [
+  "editor:focus-left": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "ArrowLeft"
     }
   ],
-  "app:go-forward": [
+  "editor:focus-right": [
     {
       "modifiers": [
-        "Alt"
+        "Mod"
       ],
       "key": "ArrowRight"
     }
   ],
-  "insert-current-date": [
+  "daily-notes": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "["
+      "key": "Home"
     }
   ],
-  "insert-current-time": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "]"
-    }
-  ],
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
-  "editor:toggle-checklist-status": [
+  "editor:cycle-list-checklist": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "Enter"
-    }
-  ],
-  "editor:toggle-bullet-list": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
-  "workspace:toggle-pin": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "."
     }
   ]
 }
